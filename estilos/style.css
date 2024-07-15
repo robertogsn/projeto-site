@@ -9,6 +9,7 @@ body{
 
 main{
     background-color: rgb(214, 208, 206);
+    background-color: hwb(0 100% 0%);
     width: 500px;
     margin: auto;
     padding: 10px;
